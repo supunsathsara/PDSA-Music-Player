@@ -1,8 +1,8 @@
 /*
  * Group Members:
  * 1. D G Savindu Supun Sathsara : GAHDSE231F-008
- * 2.  = GAHDSE231F-000
- * 3.  = GAHDSE231F-000
+ * 2. S.K. KARUNARATHNE : GAHDSE231F-014
+ * 3. N.N. WICKRAMASINGHE : GAHDSE231F-017
  * 
  * PDSA CW PROJECT
  * Harmonizing Melodies
