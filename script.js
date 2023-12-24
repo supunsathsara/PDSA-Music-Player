@@ -209,9 +209,9 @@ audio.addEventListener("ended",function(){
 });
 
 
-playlist.addSong("Starboy", "The Weeknd & Daft Punk", "images/1.jpg", "songs/Starboy.mp3");
-playlist.addSong("I Was Never There", "The Weeknd & Gesaffelstein", "images/2.jpg", "songs/I_Was_Never_There.mp3");
-playlist.addSong("LowLife", "Future & The Weeknd", "images/3.jpg", "songs/LowLife.mp3");
+playlist.addSong("Starboy", "The Weeknd & Daft Punk", "images/1.jpg", "PDSA-Music-Player/songs/Starboy.mp3");
+playlist.addSong("I Was Never There", "The Weeknd & Gesaffelstein", "images/2.jpg", "PDSA-Music-Player/songs/I_Was_Never_There.mp3");
+playlist.addSong("LowLife", "Future & The Weeknd", "images/3.jpg", "PDSA-Music-Player/songs/LowLife.mp3");
 
 console.log(currentSong)
 
