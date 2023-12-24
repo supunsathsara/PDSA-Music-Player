@@ -80,15 +80,15 @@
 
     <label for="audioSrc">Audio Source :</label>
     <select name="audioSrc" id="audioSrc">
-        <option value="./songs/Starboy.mp3">Star boy</option>
-        <option value="./songs/I_Was_Never_There.mp3">I Was Never There</option>
-        <option value="./songs/LowLife.mp3">LowLife</option>
+        <option value="songs/Starboy.mp3">Star boy</option>
+        <option value="songs/I_Was_Never_There.mp3">I Was Never There</option>
+        <option value="songs/LowLife.mp3">LowLife</option>
     </select>
 
     <button onclick="
     playlist.addSong(document.getElementById('title').value,
     document.getElementById('artist').value,
-    `./images/${document.getElementById('poster').value}.jpg`,
+    `images/${document.getElementById('poster').value}.jpg`,
     document.getElementById('audioSrc').value
     )
     updateAudio();
